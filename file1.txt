@@ -4,3 +4,4 @@ third line in file1
 fifth line in file1
 sixth line file1
 seventh line in file1
+eighth line in file1
